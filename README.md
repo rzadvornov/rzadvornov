@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
 ### 🔧 Tech Stack
 
 #### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -77,7 +77,7 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
 - **Impact**: Enhances accessibility and content analysis
 
 #### 🎭 [soft-industry-example](https://github.com/rzadvornov/soft-industry-example)
-- **Tech**: Java 17, Serenity BDD
+- **Tech**: Java 21, Serenity BDD
 - **Description**: Enterprise-grade test automation using ScreenPlay pattern
 - **Impact**: **50% faster test execution**, improved defect detection
 
