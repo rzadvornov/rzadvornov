@@ -76,7 +76,7 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
 - **Description**: Automated tool for transcribing YouTube audio to text
 - **Impact**: Enhances accessibility and content analysis
 
-#### 🎭 [soft-industry-example](https://github.com/rzadvornov/soft-industry-example)
+#### 🎭 [Serenity BDD ScreenPlay Pattern](https://github.com/rzadvornov/Serenity-ScreenPlay-Pattern)
 - **Tech**: Java 21, Serenity BDD
 - **Description**: Enterprise-grade test automation using ScreenPlay pattern
 - **Impact**: **50% faster test execution**, improved defect detection
