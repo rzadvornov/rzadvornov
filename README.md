@@ -71,6 +71,16 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
 
 ### 🌟 Featured Projects
 
+#### ⚡ [API Performance Testing with k6](https://github.com/rzadvornov/api-performance-testing-with-k6)
+- **Tech**: TypeScript, k6, Node.js, Influx DB Cloud, Graphana Cloud
+- **Description**: Comprehensive performance testing framework covering load, stress, spike, volume, and endurance testing
+- **Features**: 
+  - 5 specialized test types with realistic user patterns
+  - Layered architecture with dedicated API clients (Products, Users, Categories, Auth)
+  - Automated performance metrics and HTML reporting
+  - Complete CI/CD integration with GitHub Actions
+- **Impact**: Identifies system breaking points, validates performance SLAs (p95 < 500ms), detects memory leaks in long-running tests
+
 #### 🎵 [AssemblyMP3ToTextConverter](https://github.com/rzadvornov/AssemblyMP3ToTextConverter)
 - **Tech**: Python
 - **Description**: Automated tool for transcribing YouTube audio to text
