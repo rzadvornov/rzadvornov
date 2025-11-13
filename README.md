@@ -81,6 +81,20 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
   - Complete CI/CD integration with GitHub Actions
 - **Impact**: Identifies system breaking points, validates performance SLAs (p95 < 500ms), detects memory leaks in long-running tests
 
+#### 🌟 [SpaceX Playwright Tests](https://github.com/rzadvornov/spacex-playwright-tests)
+- **Tech**: Playwright • TypeScript • Playwright BDD
+- **Description**: Comprehensive E2E test automation framework for SpaceX API and UI using modern best practices.
+- **Features**:
+  - 🥒 BDD Framework with Playwright BDD & Gherkin syntax
+  - 🔌 API Testing: Full SpaceX API endpoint validation
+  - 🖥️ UI Testing: End-to-end browser automation
+  - 📊 Multiple Reporters: HTML, Allure, Cucumber JSON
+  - ⚡ Parallel Execution for faster feedback
+  - 📐 Design Patterns: Strategy, Factory, Page Object Model, Template Method
+  - 🎯 TypeScript: Fully typed codebase
+  - ☁️ CI/CD Ready
+- **Impact**: Reduced manual testing effort by 80% through comprehensive automation coverage, accelerated release cycles with parallel execution, and improved code quality using industry-standard design patterns.
+
 #### 🎵 [AssemblyMP3ToTextConverter](https://github.com/rzadvornov/AssemblyMP3ToTextConverter)
 - **Tech**: Python
 - **Description**: Automated tool for transcribing YouTube audio to text
