@@ -95,7 +95,7 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
   - ☁️ CI/CD Ready
 - **Impact**: Reduced manual testing effort by 80% through comprehensive automation coverage, accelerated release cycles with parallel execution, and improved code quality using industry-standard design patterns.
 
-#### 🎵 [YoutubeTranscriber](https://github.com/rzadvornov/YoutubeTranscriber)
+#### 🎵 [Youtube Transcriber](https://github.com/rzadvornov/YoutubeTranscriber)
 - **Tech**: Python
 - **Description**: Automated tool for transcribing YouTube audio to text
 - **Impact**: Enhances accessibility and content analysis
