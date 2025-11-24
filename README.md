@@ -110,6 +110,21 @@ Welcome to my GitHub! I'm a **Senior Automation QA Engineer** with **15+ years**
 - **Description**: Real-world E2E testing examples and best practices
 - **Impact**: Demonstrates **90%+ test coverage** strategies
 
+#### 🎯 [PokeAPI Gatling Performance Tests](https://github.com/rzadvornov/pokeapi-gatling-perf-tests)
+
+- **Tech**: Java 21, Gatling, Gradle, Docker
+- **Description**: Enterprise-grade performance testing framework for PokeAPI using Gatling with comprehensive test suite covering load, stress, spike, endurance, and volume testing scenarios.
+- **Features**:
+  - 🚀 5 specialized test strategies (Load, Stress, Spike, Endurance, Volume)
+  - 🏗️ SOLID principles-based architecture with Strategy & Factory patterns
+  - 🐳 Full Docker & Docker Compose support
+  - 📊 Detailed Gatling HTML reports with charts and metrics
+  - ⚙️ Flexible JSON-based configuration
+  - 🔄 Complete CI/CD integration with GitHub Actions
+  - 📈 Automated assertions for success rates and response times
+  - 🎯 RESTful API validation for multiple endpoints
+- **Impact**: Validates system behavior under various load conditions, identifies breaking points, tests sudden traffic surges, verifies stability over extended periods, and handles large data volumes with configurable thresholds and automated performance metrics.
+
 ---
 
 ### 📊 GitHub Stats
